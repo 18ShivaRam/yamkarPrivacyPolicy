@@ -1,0 +1,76 @@
+Privacy Policy for Yamkar Mobile
+
+Effective Date: May 19, 2025
+Welcome to Yamkar Mobile App, provided by SRIVEN ORGANICS PVT LTD. We are committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application. Please read this privacy policy carefully. If you do not agree with the terms of this privacy policy, please do not access the application.
+We reserve the right to make changes to this Privacy Policy at any time and for any reason. We will alert you about any changes by updating the "Effective Date" of this Privacy Policy. You are encouraged to periodically review this Privacy Policy to stay informed of updates.
+
+1. Information We Collect
+We may collect information about you in a variety of ways. The information we may collect via the App depends on the content and materials you use, and includes:
+A. Personal Data You Provide to Us: We collect personally identifiable information, such as your name, shipping address, email address, telephone number, and demographic information (such as your age, gender, hometown, and interests) that you voluntarily give to us when you register with the App, or when you choose to participate in various activities related to the App, such as online chat and message boards. You are under no obligation to provide us with personal information of any kind; however, your refusal to do so may prevent you from using certain features of the App.
+Specifically, this may include:
+Account Information: Such as your name, email address, phone number, username, password, and other registration information when you create an account on Yamkar Mobile.
+User Content: Information you provide for your user profile (e.g., profile picture) and content you generate within the app (e.g., data related to farming activities, lists, notes).
+Communications: Information you provide when you contact us for support or provide feedback.
+B. Data Collected Automatically: When you access or use our App, we may automatically collect certain information, including:
+Location Data: We may request access or permission to and track location-based information from your mobile device, either continuously or while you are using the App, to provide location-based services (e.g., maps, location-specific information relevant to farming). We may collect both precise and approximate location data. If you wish to change our access or permissions, you may do so in your device's settings.
+Mobile Device Access: We may request access or permission to certain features from your mobile device, including your mobile device's camera (expo-camera), photo gallery/storage (expo-image-picker, expo-file-system), and other features. If you wish to change our access or permissions, you may do so in your device's settings.
+Mobile Device Data: Device information such as your mobile device ID number, model, manufacturer, operating system version, IP address, mobile network information, and the phone number.
+Usage Data: Information about how you use the App, such as the features you use, the actions you take, and the time, frequency, and duration of your activities.
+Push Notifications: We may request to send you push notifications (expo-notifications) regarding your account or the App. If you wish to opt-out from receiving these types of communications, you may turn them off in your device's settings.
+C. Data from Third Parties:
+Third-Party Services: We may collect information from third-party services if you connect them to our App. For example, if you use a mapping service integrated into our app (like Mapbox), that service may share certain information with us.
+
+2. How We Use Your Information
+Having accurate information about you permits us to provide you with a smooth, efficient, and customized experience. Specifically, we may use information collected about you via the App to:
+Create and manage your account.
+Provide, operate, and maintain the App's features and functionality (e.g., displaying farmer lists, providing location-based services).
+Process your transactions and send you related information, including purchase confirmations and invoices.
+Personalize and improve your experience with the App.
+Respond to your comments, questions, and requests, and provide customer service.
+Send you technical notices, updates, security alerts, and support and administrative messages.
+Communicate with you about products, services, offers, promotions, rewards, and events offered by us and others, and provide news and information we think will be of interest to you (with your consent, where required by law).
+Monitor and analyze trends, usage, and activities in connection with our App.
+Detect, investigate, and prevent fraudulent transactions and other illegal activities and protect the rights and property of SRIVEN ORGANICS PVT LTD.
+Comply with legal and regulatory obligations.
+For any other purpose for which the information was collected.
+
+3. Disclosure of Your Information
+We may share information we have collected about you in certain situations. Your information may be disclosed as follows:
+By Law or to Protect Rights: If we believe the release of information about you is necessary to respond to legal process, to investigate or remedy potential violations of our policies, or to protect the rights, property, and safety of others, we may share your information as permitted or required by any applicable law, rule, or regulation.
+Third-Party Service Providers: We may share your information with third parties that perform services for us or on our behalf, including payment processing, data analysis, email delivery, hosting services, customer service, and marketing assistance. For example:
+Mapbox: If you use mapping features in our App, your location data and certain device information may be shared with Mapbox to provide these services. We encourage you to review Mapbox's Privacy Policy here: https://www.mapbox.com/legal/privacy
+Business Transfers: We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.
+With Your Consent: We may disclose your personal information for any other purpose with your consent.
+We do not sell your personal information to third parties.
+
+4. Data Security
+We use administrative, technical, and physical security measures to help protect your personal information. While we have taken reasonable steps to secure the personal information you provide to us, please be aware that despite our efforts, no security measures are perfect or impenetrable, and no method of data transmission can be guaranteed against any interception or other type of misuse. Any information disclosed online is vulnerable to interception and misuse by unauthorized parties. Therefore, we cannot guarantee complete security if you provide personal information. We use expo-secure-store for storing certain sensitive data locally on your device in an encrypted manner.
+
+5. Data Retention
+We will retain your personal information only for as long as is necessary for the purposes set out in this Privacy Policy, or as long as your account is active. We will retain and use your information to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
+
+6. Your Rights and Choices
+Depending on your location and applicable law, you may have certain rights regarding your personal information.
+Account Information: You may at any time review or change the information in your account or terminate your account by:
+Logging into your account settings and updating your account.
+Contacting us using the contact information provided below.
+Data Deletion: You have the right to request the deletion of your personal data associated with your account. You can make this request by visiting the following URL: https://docs.google.com/document/d/1b9w636iL9xBHbltLkUzD4oSoekhlBSnF3MZIPdgVikM/edit?tab=t.0#heading=h.jxo8v1s1hnv Upon your request to terminate your account and/or delete your data, we will deactivate or delete your account and information from our active databases. However, some information may be retained in our files to prevent fraud, troubleshoot problems, assist with any investigations, enforce our Terms of Use and/or comply with legal requirements.
+Location Information: You can prevent our App from collecting location information by disabling location services in your mobile device settings, or by denying permission to the App.
+Camera and Photos Access: You can disable access to your camera or photo gallery by changing the permissions for the App in your mobile device settings.
+Push Notifications: You can opt-out of receiving push notifications by disabling them in your mobile device settings for the App.
+
+7. Children's Privacy
+We do not knowingly solicit information from or market to children under the age of 13 (or other age as required by local law). If you become aware of any data we have collected from children under age 13, please contact us using the contact information provided below, and we will take steps to delete such information.
+
+8. Third-Party Websites and Services
+The App may contain links to third-party websites and applications of interest, including advertisements and external services, that are not affiliated with us. Once you have used these links to leave the App, any information you provide to these third parties is not covered by this Privacy Policy, and we cannot guarantee the safety and privacy of your information. Before visiting and providing any information to any third-party websites, you should inform yourself of the privacy policies and practices (if any) of the third party responsible for that website, and should take those steps necessary to, in your discretion, protect the privacy of your information. We are not responsible for the content or privacy and security practices and policies of any third parties, including other sites, services or applications that may be linked to or from the App.
+
+9. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. The updated version will be indicated by an updated "Effective Date" and the updated version will be effective as soon as it is accessible. If we make material changes to this Privacy Policy, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this Privacy Policy frequently to be informed of how we are protecting your information.
+
+10. Contact Us
+If you have questions or comments about this Privacy Policy, please contact us at:
+shivam18758@gmail.com
+7814066558
+
+
